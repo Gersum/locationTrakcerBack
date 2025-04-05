@@ -1,0 +1,7 @@
+﻿@locationTracker_HostAddress = http://localhost:5242
+
+GET {{locationTracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
